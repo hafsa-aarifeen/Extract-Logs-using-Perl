@@ -18,7 +18,7 @@ Extracted lines are then saved to a separate output file.
 
 #### How the code works
 * The script opens the log file specified in the config.
-* the script searches line by line for the message specified.
+* the script searches line by line in the log file for the message specified.
 * When it finds the message, the script starts capturing lines. It keeps capturing lines until it reaches the number of lines specified.
 *  The script checks if the captured lines contain the other pattern specified.
 *  If both patterns are found, the script saves all the captured lines to a new output file.
