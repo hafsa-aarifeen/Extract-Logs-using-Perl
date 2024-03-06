@@ -7,4 +7,8 @@ Extracted lines are then saved to a separate output file.
 * Need to create a separate configuration file (e.g., config.ini) with the specific information the script needs as input.
 * The script requires an additional software module called Config::IniFiles to be installed. Install it using the command **_cpan install Config::IniFiles_**.
 
+### Script Functionality   
+
+#### 01. 
+
 
