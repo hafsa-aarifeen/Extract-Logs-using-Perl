@@ -15,9 +15,9 @@ Extracted lines are then saved to a separate output file.
 
 ### Steps to run the script    
 
-#### 01. Save the Perl script as _extract_logs.pl_.    
-#### 02. Save the configuration file in the same directory as **_config.ini_**   
-#### 03. Run the script using **_perl extract_logs.pl_**.    
-#### 04. Enter the INI file name.    
-#### 05. The output will be saved in _output_file_ specified in config file.
+* Save the Perl script as _extract_logs.pl_.    
+* Save the configuration file in the same directory as **_config.ini_**   
+* Run the script using **_perl extract_logs.pl_**.    
+* Enter the INI file name.    
+* The output will be saved in _output_file_ specified in config file.
 
